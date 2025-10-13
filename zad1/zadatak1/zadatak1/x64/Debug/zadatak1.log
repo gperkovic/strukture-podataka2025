@@ -1,6 +1,2 @@
 ﻿  zadatak1.c
-C:\Users\student\Desktop\struktureperkovic\zad1\zadatak1\zadatak1\zadatak1.c(52,10): warning C4013: 'foef' undefined; assuming extern returning int
-C:\Users\student\Desktop\struktureperkovic\zad1\zadatak1\zadatak1\zadatak1.c(103,10): warning C4476: 'printf' : unknown type field character '\t' in format specifier
-zadatak1.obj : error LNK2019: unresolved external symbol foef referenced in function readNoRowsInFile
-C:\Users\student\Desktop\struktureperkovic\zad1\zadatak1\x64\Debug\zadatak1.exe : fatal error LNK1120: 1 unresolved externals
-C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1127,5): error MSB6006: "link.exe" exited with code 1120.
+  zadatak1.vcxproj -> C:\Users\Korisnik\Desktop\StrukPod\Strukturelabovi2025\strukture-podataka2025\zad1\zadatak1\x64\Debug\zadatak1.exe

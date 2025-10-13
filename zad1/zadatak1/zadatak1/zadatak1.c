@@ -49,7 +49,7 @@ int readNoRowsInFile() {
 		return -1;
 	}
 
-	while (!foef(filepointer)) {
+	while (!feof(filepointer)) {
 		fgets(buffer, MAX_SIZE, filepointer);
 		counter++;
 	}
@@ -100,7 +100,7 @@ int showStudents(int noStudents, student* students)
 
 	for (counter; counter < noStudents; counter++)
 	{
-		printf("Name: %s\t Surname: %s\t Absolute points: %.2lf\t Relative points: %.2lf%\t\n", students[counter].name,
+		printf("Name: %s\t Surname: %s\t Absolute points: %.2lf\t Relative points: %.2lf%%\t\n", students[counter].name,
 			students[counter].surname, students[counter].points, calculateRelativePoints(students[counter].points));
 	}
 
