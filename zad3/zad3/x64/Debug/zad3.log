@@ -1,0 +1,3 @@
+﻿  zadatak3.c
+C:\Users\Korisnik\Desktop\Strukturelabovi2025\strukture-podataka2025\zad3\zad3\zadatak3.c(351,1): warning C4172: returning address of local variable or temporary : surname
+  zad3.vcxproj -> C:\Users\Korisnik\Desktop\Strukturelabovi2025\strukture-podataka2025\zad3\x64\Debug\zad3.exe
