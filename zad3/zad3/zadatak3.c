@@ -38,7 +38,7 @@ int insertAfterPerson(Position person);
 int bubbleSort(Position firstItem);
 int writeToFile(Position firstItem, const char* filename);
 int readFromFile(Position head, const char* filename);
-static void freeList(Position head);
+int freeList(Position head);
 
 
 int main() {
@@ -412,14 +412,19 @@ int writeToFile(Position firstItem, const char* filename) {
 	return EXIT_SUCCESS;
 }
 
-static void freeList(Position head) {
+int freeList(Position head) {
+	if (head == NULL)
+		return EXIT_FAILURE;
+	
 	Position curr = head->next;
 	while (curr) {
-		Position tmp = curr->next;
+		Position temp = curr->next;
 		free(curr);
-		curr = tmp;
+		curr = temp;
 	}
 	head->next = NULL;
+
+	return EXIT_SUCCESS;
 }
 
 int readFromFile(Position head, const char* filename) {
