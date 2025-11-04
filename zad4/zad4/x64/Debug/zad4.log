@@ -1,0 +1,3 @@
+﻿  zadatak4.c
+C:\Users\Korisnik\Desktop\Strukturelabovi2025\strukture-podataka2025\zad4\zad4\zadatak4.c(219,9): warning C4013: 'strlen' undefined; assuming extern returning int
+  zad4.vcxproj -> C:\Users\Korisnik\Desktop\Strukturelabovi2025\strukture-podataka2025\zad4\x64\Debug\zad4.exe
