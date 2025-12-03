@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\zadatak6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|solutionrelative:zad6\\zadatak6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|solutionrelative:zad6\\racun2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|solutionrelative:zad6\\racun3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|solutionrelative:zad6\\racun1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA95E58E-0066-4836-B70E-D2515A0732A0}|zad6\\zad6.vcxproj|solutionrelative:zad6\\racuni.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadatak6.c",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\zadatak6.c",
+              "RelativeDocumentMoniker": "zad6\\zadatak6.c",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\zadatak6.c",
+              "RelativeToolTip": "zad6\\zadatak6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-01T19:05:45.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "racun2.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun2.txt",
+              "RelativeDocumentMoniker": "zad6\\racun2.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun2.txt",
+              "RelativeToolTip": "zad6\\racun2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T19:07:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "racun3.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun3.txt",
+              "RelativeDocumentMoniker": "zad6\\racun3.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun3.txt",
+              "RelativeToolTip": "zad6\\racun3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-03T15:26:50.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "racun1.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun1.txt",
+              "RelativeDocumentMoniker": "zad6\\racun1.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racun1.txt",
+              "RelativeToolTip": "zad6\\racun1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T19:07:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "racuni.txt",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racuni.txt",
+              "RelativeDocumentMoniker": "zad6\\racuni.txt",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Strukturelabovi2025\\strukture-podataka2025\\zad6\\zad6\\racuni.txt",
+              "RelativeToolTip": "zad6\\racuni.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T19:06:52.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

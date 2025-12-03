@@ -1,0 +1,6 @@
+2025-02-08
+Kruh, 2, 1.50
+Jaja, 1, 0.15
+Mlijeko, 6, 1.25
+Banane, 2, 0.70
+Brasno, 3, 1
